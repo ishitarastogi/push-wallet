@@ -1,0 +1,17 @@
+.main{
+    margin-top:100px
+}
+.btns{
+margin-top:20px;
+  background-color: rgb(170, 39, 100);
+  border: none;
+  width: 120px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  padding:10px
+}
+.text{
+    padding:10px 50px;
+    margin-top:40px
+}
