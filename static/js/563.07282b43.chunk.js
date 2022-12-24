@@ -1,1 +1,0 @@
-(self.webpackChunkpush_wallet_notif=self.webpackChunkpush_wallet_notif||[]).push([[563],{6563:function(){}}]);
